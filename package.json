@@ -1,5 +1,5 @@
 {
-  "name": "jsonresume-theme-elegant",
+  "name": "jsonresume-theme-elegant-projects",
   "version": "1.10.2",
   "description": "Elegant theme for jsonresume",
   "main": "index.js",
@@ -8,19 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mudassir0909/jsonresume-theme-elegant.git"
+    "url": "https://github.com/mqzry/jsonresume-theme-elegant.git"
   },
   "keywords": [
     "jsonresume",
     "theme",
-    "elegant"
+    "elegant",
+    "projects"
   ],
-  "author": "Mudassir Ali <mudassir.dev@gmail.com>",
+  "author": "Mohamed Hashi <mhas@hashi.nu>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mudassir0909/jsonresume-theme-elegant/issues"
+    "url": "https://github.com/mqzry/jsonresume-theme-elegant/issues"
   },
-  "homepage": "https://github.com/mudassir0909/jsonresume-theme-elegant",
+  "homepage": "https://github.com/mqzry/jsonresume-theme-elegant",
   "dependencies": {
     "gravatar": "^1.0.6",
     "handlebars": "^2.0.0-alpha.4",
